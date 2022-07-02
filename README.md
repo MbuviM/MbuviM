@@ -1,6 +1,8 @@
 ### Hi there 👋
-I'm Yvonne Mwende Mbuvi
+I'm Yvonne Mwende Mbuvi.
+
 A data scientist who is also interested in Machine Learning, Artificial Intelligence and Robotics.
+
 Hope you'll enjoy all the projects created in the repositories.
 ### Now Playing — Spotify 🎧
 <p>
