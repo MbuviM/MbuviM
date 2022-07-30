@@ -1,10 +1,10 @@
 ---
  <!-- [Marville001](https://raw.githubusercontent.com/marville001/marville001/main/marville001.png) -->
  ### Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> I'm Yvonne Mwende Mbuvi
- #### Data Scientist :)
+ #### Data Nerd :)
 
 
-A data scientist who is also interested in Machine Learning, Artificial Intelligence and Robotics.
+I'm a data scientist who is also interested in Machine Learning, Artificial Intelligence and Robotics.
 
 Hope you'll enjoy all the projects created in the repositories.
 
