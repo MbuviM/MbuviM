@@ -13,20 +13,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MbuviM&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=MbuviM&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 ### Now Playing — Spotify 🎧
 <p>
 <a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=0dyt0z4xdnug7teutmvub5la8&redirect=true">
 <img src= "https://spotify-github-profile.vercel.app/api/view?uid=0dyt0z4xdnug7teutmvub5la8&cover_image=true&theme=default"/>
 </a>
 </p>
+
                                                                                                                            
